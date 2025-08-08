@@ -11,6 +11,8 @@ export default defineConfig({
         hello: 'hello.html',
         say_hello: 'say-hello.html',
         style: 'style.html',
+        score: 'score.html', // Corrected the file name to match the context
+        todolist: 'todolist.html', // Corrected the file name to match the context
       }
     }
   } 
