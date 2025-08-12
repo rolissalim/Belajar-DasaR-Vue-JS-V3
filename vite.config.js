@@ -15,6 +15,9 @@ export default defineConfig({
         todolist: 'todolist.html', // Corrected the file name to match the context
         contact: 'contact.html', // Corrected the file name to match the context
         note: 'note.html', // Corrected the file name to match the context
+        counter: 'counter.html', // Corrected the file name to match the context
+        button: 'button.html', // Corrected the file name to match the context
+        home: 'home.html', // Corrected the file name to match the context
       }
     }
   } 
