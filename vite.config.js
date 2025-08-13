@@ -18,6 +18,7 @@ export default defineConfig({
         counter: 'counter.html', // Corrected the file name to match the context
         button: 'button.html', // Corrected the file name to match the context
         home: 'home.html', // Corrected the file name to match the context
+        profile: 'profile.html', // Corrected the file name to match the context
       }
     }
   } 
